@@ -1,6 +1,1 @@
-Intervalometer
-==============
-
-This source code provides arduino functionality for an intervalometer.
-
-Note that this provides IR output for a Sony NEX camera. It also (if wired) can be used to control a standard Canon remote shutter trigger (use of a decoupling circuit necessary, and not designed in).
+The goal of this fork is to create an IR remote for Sony Aplha cameras with an ATMEGA328P that can take external input signals, such as a decoded RF signal.
